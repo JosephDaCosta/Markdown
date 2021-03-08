@@ -123,7 +123,7 @@ Nesta lista nós também podemos adicionar sub-itens. Basta adicionarmos TRÊS e
 
 ### Lista de tarefas
 
-A lista de tarefas é muito útil e tem sido muito utilizada. Para criarmos uma lista deste tipo nós utilizamos o sinal de menos `-` seguido de espaço,  abertura de colchetes, espaço, fechamento de colchetes, espaço, e o texto que desejamos.
+A lista de tarefas é muito útil e tem sido muito utilizada. Para criarmos uma lista deste tipo nós utilizamos o sinal de menos `-` seguido de espaço, `[` abertura de colchetes, espaço, `]` fechamento de colchetes, espaço, e o texto que desejamos.
 
 ```
 - [ ] teste
