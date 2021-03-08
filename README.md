@@ -15,7 +15,7 @@ Vocês podem baixar este arquivo para visualizar o código fonte do mesmo e ente
 
 ### Negrito
 
-Para deixar um texto ou parte de um texto em **negrito**, nós podemos utilizar o síbolo asterisco duas vezes `**` no início, depois devemos utilizar o mesmo símbolo para indicar que queremos terminar o texto ou a palavra em negrito, do contrário este efeito seria aplicado para todo o texto.
+Para deixar um texto ou parte de um texto em **negrito**, nós podemos utilizar o síbolo asterísco duas vezes `**` no início, depois devemos utilizar o mesmo símbolo para indicar que queremos terminar o texto ou a palavra em negrito, do contrário este efeito seria aplicado para todo o texto.
 
 Nós também podemos ao inves de asterísco, utilizar o underline DUAS vezes `__` no início, para indicar que desejamos iniciar o efeito __negrito__ e duas vezes no final, para indicar que desejamos encerrar o efeito.
 
