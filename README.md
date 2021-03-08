@@ -5,7 +5,7 @@ Aplicando na prática os comandos aprendidos na linguagem ***Markdown***
 ---
 A linguagem **Markdown** assim como o *html* são linguagens de marcação e não de programação. Mas por que motivos utilizaríamos o **Markdown** se nós já temos o *html*?
 
-A linguagem **Markdown** tem como objetivo tornar o código fonte mais legível e de fácil leitura. Além disso ele é utilizado em vários momentos sem que as pessoas saibam, como aqui mesmo no GitHub dentro das "Issues", no arquivo "README.md", que por sinal a extenção ".md" significa **Markdown**, no aplicativo de voz Discord e até mesmo o whatsapp tem comandos com base em **Markdown**.
+A linguagem **Markdown** tem como objetivo tornar o código fonte mais legível e de fácil leitura. Além disso ele é utilizado em vários momentos sem que as pessoas saibam, como aqui mesmo no GitHub dentro das "Issues", no arquivo "README.md" que por sinal a extenção ".md" significa **Markdown**, no aplicativo de voz Discord e até mesmo o whatsapp tem comandos com base em **Markdown**.
 
 Mas chega de enrolação, vamos aprender a utilizar os comandos...
 
