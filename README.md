@@ -238,4 +238,4 @@ Basta que você pule uma linha, ou seja, utilizar a tecla ENTER DUAS vezes.
 
 ---
 
-Espero ter ajudado a todos que tinham dúvidas a respeito dessa linguagem de marcação super útil e muito legal.
+**Espero ter ajudado a todos que tinham dúvidas a respeito dessa linguagem de marcação super útil e muito legal.**
