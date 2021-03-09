@@ -180,3 +180,62 @@ A sintaxe para adicionar links é a mesma de inserir imagens, porém sem o ponto
 `[teste](https://link.com.br)`
 
 [Portifólio da imagem acima](https://www.behance.net/gallery/99906159/Pride-is-Red)
+
+### Criação de tabelas
+
+Para a criação de tabelas nós trabalhamos com as barras `|` após cada texto adicionado.
+
+`Número | Item | Preço`
+
+Depois criamos as linhas horizontais que irão dividir as colunas dos itens e seguimos com a tabela.
+
+`---|---|---`
+
+Agora seguimos preenchendo a tabela utilizando o mesmo padrão das colunas.
+```
+1 | Maçã | R$19,30
+2 | Banana | R$05,50
+```
+
+Agora seguindo todos os passos a nossa tabela se encontra desta forma.
+
+```
+Número | Item | Preço
+---|---|---
+1 | Maçã | R$19,30
+2 | Banana | R$05,50
+```
+
+Número | Item | Preço
+---|---|---
+1 | Maçã | R$19,30
+2 | Banana | R$05,50
+
+### Adicionar códigos
+
+Ao longo de todo este texto eu adicionei várias linhas e blocos de código, isto é, as partes destacadas com fundo cinza e mono espaçadas passando a ideia de que são linhas de código de alguma linguagem de programação ou de marcação de texto como no caso do **Markdown**.
+
+Para adicionarmos uma única linha de código nós utilizamos duas crases ` `` ` e dentro delas adicionamos o conteúdo com a linha de código que desejamos.
+
+`gameDev = new Arraylist<gameDeveloper>();`
+
+Já para criarmos um bloco de código onde temos algumas ou várias linhas, nós utilizamos TRÊS crases ` ``` ` no início do código e mais três no final. Assim todo o conteúdo inserido dentro das crazes será formatado como linhas de código.
+
+```
+if(moved) {
+	frames ++;
+	   if(frames == maxFrames) {
+		  	frames = 0;
+		   index++;
+			if(index == maxIndex)
+			   index = 0;
+```
+### Quebra de linhas
+
+Para quebrar uma linha em _**Markdown**_ é mais simples do que tudo o que aprendemos até aqui.
+
+Basta que você pule uma linha, ou seja, utilizar a tecla ENTER DUAS vezes.
+
+---
+
+Espero ter ajudado a todos que tinham dúvidas a respeito dessa linguagem de marcação super útil e muito legal.
